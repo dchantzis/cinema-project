@@ -29,10 +29,10 @@ This system manages the ticket reservations of a cinema where customers can:
 - <https://github.com/dchantzis>
 
 ## Screenshots
-![Image 1](https://github.com/dchantzis/cinema-project/screenshots/screenshot-1.png)
+![Image 1](https://raw.githubusercontent.com/dchantzis/cinema-project/master/screenshots/screenshot-1.jpg)
 
-![Image 2](https://github.com/dchantzis/cinema-project/screenshots/screenshot-2.png)
+![Image 2](https://raw.githubusercontent.com/dchantzis/cinema-project/master/screenshots/screenshot-2.jpg)
 
-![Image 3](https://github.com/dchantzis/cinema-project/screenshots/screenshot-3.png)
+![Image 3](https://raw.githubusercontent.com/dchantzis/cinema-project/master/screenshots/screenshot-3.jpg)
 
-![Image 4](https://github.com/dchantzis/cinema-project/screenshots/screenshot-4.png)
+![Image 4](https://raw.githubusercontent.com/dchantzis/cinema-project/master/screenshots/screenshot-4.jpg)

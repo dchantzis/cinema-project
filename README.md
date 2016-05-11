@@ -3,6 +3,7 @@
 ## Cinema project
 **Built date:** 2005
 
+**Documentation:** [PDF](https://github.com/dchantzis/cinema-project/blob/master/cinema-project%5Bgreek%5D.pdf)
 **Git Repo:** [https://github.com/dchantzis/cinema-project](https://github.com/dchantzis/cinema-project)
 
 This is a semester project participating in the "Applications Development & Management" class for the BSc(Hons) in Informatics Engineering at the Department of Information Technology, Thessaloniki, Greece.
